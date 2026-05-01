@@ -3,8 +3,8 @@
 A full-stack web application for managing projects, tasks, and teams with role-based access control.
 
 ## Live Demo
-- **Frontend:** [https://team-task-manager-1-2dxu.onrender.com]
-- **Backend API:** [Add your Railway URL here]
+- **Frontend:** https://team-task-manager-1-2dxu.onrender.com
+- **Backend API:** https://team-task-manager-qu6v.onrender.com
 
 ## Tech Stack
 
