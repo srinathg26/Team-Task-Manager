@@ -2,8 +2,8 @@
   TEAM TASK MANAGER — Full-Stack Web App
 ====================================================
 
-LIVE URL: [Add your Railway frontend URL after deployment]
-GITHUB:   [Add your GitHub repo URL]
+LIVE URL: https://team-task-manager-1-2dxu.onrender.com
+GITHUB:   
 
 ----------------------------------------------------
 TECH STACK
