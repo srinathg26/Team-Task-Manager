@@ -3,7 +3,7 @@
 ====================================================
 
 LIVE URL: https://team-task-manager-1-2dxu.onrender.com
-GITHUB:   
+GITHUB:   https://github.com/srinathg26/Team-Task-Manager.git
 
 ----------------------------------------------------
 TECH STACK
